@@ -1,5 +1,6 @@
 html{
   box-sizing:border-box;
+  font-family:karla;
 }
 *, *:before, *:after{
   box-sizing:inherit;
@@ -41,7 +42,6 @@ button{
   margin-top:10px;
   font-size:16px;
   color:orange;
-  font-family:"times new roman";
   padding-left:85px;
   padding-top:15px;
   font-size:25px;
